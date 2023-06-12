@@ -1,0 +1,38 @@
+/*header*/
+header{
+    text-align: center;
+    margin: 20px;
+    margin-top: 40px;
+}
+.profil{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}
+/*article*/
+article{
+    text-align: justify;
+    margin: 20px;
+}
+.p{
+    font-family: serif;
+    font-size: 120%;
+}
+nav{
+    text-align: center;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.logososmed{
+    width: 40px;
+    height: 40px;
+}
+.supportme{
+    margin: 40px;
+}
+/*footer*/
+footer{
+    text-align: center;
+    margin: 10px;
+    background-color: silver;
+}
